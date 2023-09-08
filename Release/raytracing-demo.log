@@ -1,0 +1,11 @@
+﻿  raytracing-demo.cpp
+D:\OpenGL\raytracing-demo\raytracing-demo\raytracing-demo.cpp(146,18): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\OpenGL\raytracing-demo\raytracing-demo\raytracing-demo.cpp(150,18): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\OpenGL\raytracing-demo\raytracing-demo\raytracing-demo.cpp(270,18): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\OpenGL\raytracing-demo\raytracing-demo\raytracing-demo.cpp(364,19): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  正在產生程式碼
+  1 of 152 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成程式碼產生
+  raytracing-demo.vcxproj -> D:\OpenGL\raytracing-demo\raytracing-demo\Release\raytracing-demo.exe

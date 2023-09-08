@@ -1,0 +1,2 @@
+﻿  raytracing-demo.cpp
+D:\OpenGL\raytracing-demo\raytracing-demo\raytracing-demo.cpp(6,10): fatal error C1083: 無法開啟包含檔案: 'svpng.inc': No such file or directory
