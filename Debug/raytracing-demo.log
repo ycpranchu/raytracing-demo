@@ -1,0 +1,6 @@
+﻿  raytracing-demo.cpp
+D:\OpenGL\raytracing-demo\raytracing-demo.cpp(146,18): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\OpenGL\raytracing-demo\raytracing-demo.cpp(150,18): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\OpenGL\raytracing-demo\raytracing-demo.cpp(270,18): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\OpenGL\raytracing-demo\raytracing-demo.cpp(364,19): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  raytracing-demo.vcxproj -> D:\OpenGL\raytracing-demo\Debug\raytracing-demo.exe
